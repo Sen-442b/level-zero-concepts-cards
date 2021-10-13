@@ -13,7 +13,7 @@ No, definitely not, as mentioned above  I made this app for revision only kindly
 
 
 ### Can I Contribute to this project
-Definitely, if you have some tricky conceptual questions and satisfactory answers in your mind, Checkout 
+Definitely, if you have some tricky conceptual questions and satisfactory answers in your mind
 
 ### How to contribute to this project
  You can contribute to this project very easily by following a few steps. Don't worry...

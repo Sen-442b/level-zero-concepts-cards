@@ -26,11 +26,11 @@
 **PLEASE DON"T DELETE THE PRE-EXISTING OBJECTS FROM THE LIST/ARRAY** <br>
 
 6. Scroll down to the bottom of your page and click on  **Create a new branch** and give it a suitable name then click on **Propose Changes**
-<br>
+
 [![image.png](https://i.postimg.cc/65Y0hjHx/image.png)](https://postimg.cc/crtwxmyF)
 
 7. Now tap on **Create pull request** 
-<br>
+
 [![image.png](https://i.postimg.cc/02kgQ46T/image.png)](https://postimg.cc/MXF33dm5) 
 
 # Things to keep in mind before contributing

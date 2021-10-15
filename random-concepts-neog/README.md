@@ -8,6 +8,8 @@
 2. Head over to **src**--> **components** --> **DataArray.js**
 3. Now  edit the file(By taping that pen icon on the top right )
 <br>
+
+
 [![image.png](https://i.postimg.cc/D04CNqmP/image.png)](https://postimg.cc/N2Y7926K)
 
 4. Scroll down to the bottom  the DataArray

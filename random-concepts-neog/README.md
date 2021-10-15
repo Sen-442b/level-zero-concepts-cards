@@ -4,15 +4,15 @@
 
 ## Getting started
 
-1. Fork this repository (Click the Fork button in the top right of this page, below your Profile Image)
+1. Fork this repository (click the Fork button in the top right of this page, below your Profile Image)
 2. Head over to **src**--> **components** --> **DataArray.js**
-3. Now  edit the file(By taping that pen icon on the top right )
+3. Now  edit the file(by taping that pen icon on the top right )
 <br>
 
 
 [![image.png](https://i.postimg.cc/D04CNqmP/image.png)](https://postimg.cc/N2Y7926K)
 
-4. Scroll down to the bottom  the DataArray
+4. Scroll down to the bottom of the  DataArray variable
 
 5. Now add your contribution  by creating a separate object as the last index of the array in this format 
     * { 

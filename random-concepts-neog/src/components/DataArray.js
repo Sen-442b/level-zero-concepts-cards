@@ -57,7 +57,8 @@ const DataArr = [
       "https://pbs.twimg.com/profile_images/1438796885003698176/GBYxDCZf_400x400.png",
     topic: "React",
     question: "Is react a Framework or a Library? ",
-    answer: "React is a library  because it gives more flexibility in creating self-sustaining components rather than having a pre-determined control flow ",
+    answer:
+      "React is a library  because it gives more flexibility in creating self-sustaining components rather than having a pre-determined control flow ",
   },
   {
     name: "Muthu Kumaran ",
@@ -66,20 +67,30 @@ const DataArr = [
       "https://pbs.twimg.com/profile_images/1403785157639770113/UnRBl2Eb_400x400.jpg",
     topic: "CSS",
     question: "How am  I supposed to center a div in CSS?",
-    answer: "Set a max width size of your choice  to the box with margin auto to set equal margin left and right which would ultimately center your div",
-
+    answer:
+      "Set a max width size of your choice  to the box with margin auto to set equal margin left and right which would ultimately center your div",
   },
-    {
-      name: "Shubhendu Sen ",
-      link: "https://twitter.com/sen_shubhendu",
-      profileImg:
-        "https://personal-site-shubhendu-sen.netlify.app/images/pfp.png",
-      topic: "Node JS",
-      question: "What is readline-sync package?",
-      answer: "It is a third party extension of NodeJS's inbuilt readline module which takes  user input via console without specifying an input/output interface ",
-  
-    }
-  
+
+  {
+    name: "Shubhendu Sen ",
+    link: "https://twitter.com/sen_shubhendu",
+    profileImg:
+      "https://personal-site-shubhendu-sen.netlify.app/images/pfp.png",
+    topic: "Node JS",
+    question: "What is readline-sync package?",
+    answer:
+      "It is a third party extension of NodeJS's inbuilt readline module which takes  user input via console without specifying an input/output interface ",
+  },
+  {
+    name: "Aamir Nathani ",
+    link: "https://twitter.com/aamir_nathani?s=20",
+    profileImg:
+      "https://pbs.twimg.com/profile_images/1438154224030810112/VEE1r5Fj_400x400.jpg",
+    topic: "Internet/Web",
+    question: "Explain how the web works.",
+    answer:
+      "The web is responsible for   requesting  message  from  the client side address  and getting response via server side address  by using  suitable   transfer protocols ",
+  },
 ];
 
 export default DataArr;

@@ -89,7 +89,7 @@ const DataArr = [
     topic: "Internet/Web",
     question: "Explain how the web works.",
     answer:
-      "The web is responsible for   requesting  message  from  the client side address  and getting response via server side address  by using  suitable   transfer protocols ",
+      "The web is responsible for resolving request for message from the client side address  and getting response from the  server side address  by using  suitable   transfer protocols ",
   },
 ];
 

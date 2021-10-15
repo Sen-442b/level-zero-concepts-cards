@@ -16,12 +16,12 @@
 
 5. Now add your contribution  by creating a separate object as the last index of the array in this format 
     * { 
-  name: "Adarsh Balika ",         *//Your name* <br>
-  link: "www.twitter_xyz",        *//Link of your twitter handle* <br>
-  profileImg:"pofilepicture.jpg",  *//add your favorite profile picture here(just copy paste your twitter profile picture link address )* <br> 
-  topic: "Node JS",               *// Topic from which the question and answer is taken(eg:-Vanilla JavaScript, Git, CSS, etc.)* <br> 
-  question: "What is NPM?",       *//question of your topic <br>*
-  answer: "NPM basically is the package manager for node. It helps with installing various packages and resolving their various dependencies <br>
+ **name: "Adarsh Balika"**,        *(Your name)* <br>
+ **link: "www.twitter_xyz"**,        *(Link of your twitter handle)* <br>
+  **profileImg:"pofilepicture.jpg"**,  *[add your favorite profile picture here(just copy paste your twitter profile picture link address )]* <br> 
+  **topic: "Node JS"**,               *[Topic from which the question and answer is taken(eg:-Vanilla JavaScript, Git, CSS, etc.)]* <br> 
+  **question: "What is NPM?"**,       *(question of your topic) <br>*
+  **answer: "NPM basically is the package manager for node. It helps with installing various packages and resolving their various dependencies** <br>
 } <br>
 
 

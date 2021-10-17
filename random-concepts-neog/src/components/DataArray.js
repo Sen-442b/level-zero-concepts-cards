@@ -105,7 +105,7 @@ const DataArr = [
   profileImg:"https://pbs.twimg.com/profile_images/1445066310879100932/B2s6bXcH_400x400.jpg",
   topic: "React JS",
   question: "Briefly describe the structure of create-react-app files",
-  answer: "It starts with the static HTML page which has a div with an id of 'root',it references that div element inside the javascript file and then we import 'React' and 'ReactDOM' modules for using react features such as components, jsx etc and for rendering the content to the actual DOM respectively"
+  answer: "It starts with the static HTML page which has a div with an id of 'root',it references that div element inside the javascript file and then it  imports 'React' and 'ReactDOM'((by default)) modules for using react features such as components, jsx etc and for rendering the content to the actual DOM respectively"
 }
 ];
 

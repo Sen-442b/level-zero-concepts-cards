@@ -91,6 +91,22 @@ const DataArr = [
     answer:
       "The web is responsible for resolving request for message from the client side address  and getting response from the  server side address  by using  suitable   transfer protocols ",
   },
+  { 
+  name: "Jaswanth Reddy Padala ",
+  link: "https://twitter.com/jaswanthreddyp2",
+  profileImg:"https://pbs.twimg.com/profile_images/1329058559997296653/nbH10Caz_400x400.jpg",
+  topic: "React JS",
+  question: "Explain Virtual DOM",
+  answer: "Virtual DOM can be refereed as a lightweight copy of actual DOM object, it makes the DOM manipulation procedure faster by updating the whole Virtual DOM, comparing it with its own pre updated version and then finally pushing  the changed objects to the actual DOM"
+},
+{ 
+  name: "Roshan J",
+  link: "https://twitter.com/DevEnforced",
+  profileImg:"https://pbs.twimg.com/profile_images/1445066310879100932/B2s6bXcH_400x400.jpg",
+  topic: "React JS",
+  question: "Briefly describe the structure of create-react-app files",
+  answer: "It starts with the static HTML page which has a div with an id of 'root',it references that div element inside the javascript file and then we import 'React' and 'ReactDOM' modules for using react features such as components, jsx etc and for rendering the content to the actual DOM respectively"
+}
 ];
 
 export default DataArr;

@@ -112,7 +112,7 @@ const DataArr = [
   link: "https://twitter.com/Nikhil_Belide",
   profileImg:"https://pbs.twimg.com/profile_images/1414795650147835911/XW8zHlP0_400x400.jpg",
   topic: "React JS",
-  question: "Explain react synthetic events?",
+  question: "Explain react synthetic events",
   answer: "synthetic events can be termed as the replica of native JS events which which can fire a callback function after the target event is triggered without using the '.addEventListener()' method ",
 
 },

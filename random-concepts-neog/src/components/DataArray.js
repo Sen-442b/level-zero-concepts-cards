@@ -96,7 +96,7 @@ const DataArr = [
   link: "https://twitter.com/jaswanthreddyp2",
   profileImg:"https://pbs.twimg.com/profile_images/1329058559997296653/nbH10Caz_400x400.jpg",
   topic: "React JS",
-  question: "Explain Virtual DOM",
+  question: "Explain Virtual DOM.",
   answer: "Virtual DOM can be refereed as a lightweight copy of actual DOM object, it makes the DOM manipulation procedure faster by updating the whole Virtual DOM, comparing it with its own pre updated version and then finally pushing  the changed objects to the actual DOM"
 },
 { 
@@ -106,6 +106,31 @@ const DataArr = [
   topic: "React JS",
   question: "Briefly describe the structure of create-react-app files",
   answer: "It starts with the static HTML page which has a div with an id of 'root',it references that div element inside the javascript file and then it  imports 'React' and 'ReactDOM'((by default)) modules for using react features such as components, jsx etc and for rendering the content to the actual DOM respectively"
+},
+{ 
+  name: "Nikhil Belide ",
+  link: "https://twitter.com/Nikhil_Belide",
+  profileImg:"https://pbs.twimg.com/profile_images/1414795650147835911/XW8zHlP0_400x400.jpg",
+  topic: "React JS",
+  question: "Explain react synthetic events?",
+  answer: "synthetic events can be termed as the replica of native JS events which which can fire a callback function after the target event is triggered without using the '.addEventListener()' method ",
+
+},
+{
+  name: "dummyOne",
+  link: "#",
+  profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+  topic: "React JS",
+  question: "What is Array destructuring ?",
+  answer: "It is an ES6 expression which lets you unpack  the values of an array into variables according to the indexes of  that specific array without imperatively storing them in a variable "
+},
+{ 
+  name: "Aman Tulsyan ",
+  link: "https://twitter.com/aman_fullstack",
+  profileImg:"https://pbs.twimg.com/profile_images/1439169570367946759/M26e_5Jw_400x400.jpg",
+  topic: "React JS",
+  question: "What are Hooks in react?",
+  answer: "Hooks are inbuilt functions with specific guidelines which facilitates usage of state variables, lifecycle methods etc  in a functional component  "
 }
 ];
 

@@ -131,7 +131,15 @@ const DataArr = [
   topic: "React JS",
   question: "What are Hooks in react?",
   answer: "Hooks are inbuilt functions with specific guidelines which facilitates usage of state variables, lifecycle methods etc  in a functional component  "
-}
+},
+{ 
+  name: "Dummy Two ",
+  link: "#",
+  profileImg:"https://thumbs.dreamstime.com/b/default-avatar-photo-placeholder-profile-icon-default-avatar-photo-placeholder-profile-icon-female-eps-file-easy-to-edit-124557835.jpg",
+  topic: "Vanilla JavaScript",
+  question: "Explain Render tree",
+  answer: "When  CSSOM is combined DOM  it creates a 'render tree' which at last assigns all the visible elements in the screen with specified pixels"
+},
 ];
 
 export default DataArr;

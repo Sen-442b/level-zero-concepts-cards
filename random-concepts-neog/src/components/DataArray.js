@@ -3,7 +3,7 @@ const DataArr = [
     name: "Tanay Pratap", //Your name
     link: "https://twitter.com/tanaypratap", //Link to your social media handle (eg:- Twitter, Linkedin, etc.)
     profileImg:
-      "https://pbs.twimg.com/profile_images/1407601239727112198/V4bunpAi_400x400.jpg", //add your favorite profile picture here
+      "https://pbs.twimg.com/profile_images/1449982666284023808/mqacJu_f_400x400.jpg", //add your favorite profile picture here
     topic: "Git", // Topic from which the question and answer is taken(eg:-Vanilla JavaScript, Git, CSS, etc.)
     question: "Explain Version Control System.  ", //question of your topic (eg:- difference between block and inline elements, callback functions, etc.)
     answer:
@@ -140,6 +140,23 @@ const DataArr = [
   question: "Explain Render tree",
   answer: "When  CSSOM is combined DOM  it creates a 'render tree' which at last assigns all the visible elements in the screen with specified pixels"
 },
+{
+  name: "Kevin Solomon",
+  link: "https://twitter.com/kevinsolomon777",
+  profileImg:"https://pbs.twimg.com/profile_images/1433717272925773832/PuvEV0_c_400x400.jpg",
+  topic: "Vanilla JavaScript/Browser",
+  question: "What are Browser APIs",
+  answer: "Interfaces which are built in the user's browser that allow the client-side application to interact with complicated procedures like displaying media, manipulating documents, rendering elements, showing date etc. without repeatedly writing complex low level code "
+},
+{ 
+  name: "Mauli Mogal ",
+  link: "https://twitter.com/MauliMogal",
+  profileImg:"https://pbs.twimg.com/profile_images/1338277558337454081/A7fRtUXj_400x400.jpg",
+  topic: "JavaScript",
+  question: "Explain how '.querySelector()' method works internally",
+  answer: "Firstly it takes a valid CSS selector as its parameter then it traverses through the whole document/DOM using depth first search pre-order traversal i.e. it recursively starts with the root element node  then it traverses  the left most child node and then the right node to find and reference of the element with the specified selector"
+}
+
 ];
 
 export default DataArr;

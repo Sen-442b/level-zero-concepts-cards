@@ -97,7 +97,7 @@ const DataArr = [
   profileImg:"https://pbs.twimg.com/profile_images/1329058559997296653/nbH10Caz_400x400.jpg",
   topic: "React JS",
   question: "Explain Virtual DOM.",
-  answer: "Virtual DOM can be refereed as a lightweight copy of actual DOM object, it makes the DOM manipulation procedure faster by updating the whole Virtual DOM, comparing it with its own pre updated version and then finally pushing  the changed objects to the actual DOM"
+  answer: "Virtual DOM can be referred as a lightweight copy of actual DOM object, it makes the DOM manipulation procedure faster by updating the whole Virtual DOM, comparing it with its own pre updated version and then finally pushing  the changed objects to the actual DOM"
 },
 { 
   name: "Roshan J",

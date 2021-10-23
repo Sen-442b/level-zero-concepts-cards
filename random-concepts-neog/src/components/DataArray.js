@@ -162,7 +162,7 @@ const DataArr = [
   profileImg:"https://pbs.twimg.com/profile_images/1396743059820269568/V2zqrFLJ_400x400.jpg",
   topic: "Git/GitHub",
   question: "What type states a file in a repository has to go after I make some changes in it?",
-  answer: "The initial stage is when the changes are 'untracked' i.e. git knows that there are modifications in a file but it doesn't tracks it unless the user explicitly commands it to a͟d͟d͟ all the files in the 'staged' area, here git keeps a database of all the differences between the pre-updated and updated file in a working tree and once the user commands it to c͟o͟m͟m͟i͟t͟ the changes then only it considers the file as truly modified and finally it takes the snapshot of those committed changes"
+  answer: "The initial stage is when the changes are 'untracked' i.e. git knows that there are modifications in a file but it doesn't tracks it unless the user explicitly commands it to a͟d͟d͟ all the files in the 'staged' area, here git keeps a database of all the differences between the pre-updated and updated file in a working tree and once the user commands it to c͟o͟m͟m͟i͟t͟ the changes then only it considers the file as truly modified and finally it takes the snapshot of those committed changes by giving it a unique hash key"
 },
 { 
   name: "Omkar Patke ",

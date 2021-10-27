@@ -171,7 +171,59 @@ const DataArr = [
   topic: "Git/GitHub",
   question: "What's the difference between Git and Github?",
   answer: "Git is a distributed version control software which works in your local machine, it tracks changes in your source code and it also can communicate with a remote repository hosting servers for  transferring  data whereas Github is a web based product which  hosts git repositories and facilitates features like source code management,version control,project collaboration etc"
-}
+},
+{ 
+  name: "Dummy Three ",
+  link: "#",
+  profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+  topic: "HTML",
+  question: "What's the difference between HTML head tag and body tag ",
+  answer: "Meta tags are the tags which contains metadata which is no shown to the user in the webpage itself rather most of the tags are used by the user-agent and body tag consists of all the elements through which a user can interact with"
+},
+{ 
+  name: "Dummy Four ",
+  link: "#",
+  profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+  topic: "HTML/CSS",
+  question: "What are CSS selectors? ",
+  answer: "CSS selectors defines the element to apply a css rule, some basic CSS selectors includes 1)Universal Selectors 2)Type Selectors 3)Class Selectors 4)Id Selectors and 5)Attribute Selectors "
+},
+{ 
+  name: "Dummy Five ",
+  link: "#",
+  profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+  topic: "HTML/CSS",
+  question: "Explain CSS box model? ",
+  answer: "The browser engine gives  a box like model to the DOM elements while rendering it, such model is called as css box model which consists of manipulative properties like 1)Content area:- it has the main text/visual/audio content 2)Padding:-the area of  difference between the content edge and border of the element is known as padding 3)Border:- covers the whole element in a border like structure 4)Margin:-its the area of difference between the element with neighbor and parent elements"
+},
+
+  { 
+    name: "Dummy Five ",
+    link: "#",
+    profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+    topic: "Client Side JavaScript",
+    question: "Explain '.addEventListener()' method",
+    answer: "It's a method of EventTarget interface which takes two required parameters first one being a string specifies the type of event and second one being a callback function which subsequently gets called when  the target event is  registered"
+  },
+
+  ,{ 
+    name: "Dummy Five ",
+    link: "#",
+    profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+    topic: "HTML",
+    question: "What is the difference between block level and inline elements",
+    answer: "In an normal flow block level elements  goes from top to bottom  i.e. it always starts from a new because it covers the whole width of teh document whereas  inline elements is displayed in inline direction, that is the direction words are displayed in a sentence according to the the writing mode of such sentence and height and width of an inline level element can't be manipulated"
+  },{
+    name: "Dummy Six ",
+    link: "#",
+    profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+    topic: "HTML",
+    question: "How the Fetch API works?",
+    answer: "It takes an inbuilt function named 'fetch()' which takes a required parameter of the destination of resources to be fetched and sends it to the destination sever and then returns a promise and if the promise gets resolved then using the .then() method we get the response object and its body is then parsed into a JavaScript object using a callback function using another promise and  to actually utilize the data .then() method is again used to pass necessary callback functions"
+
+  }
+  
+
 
 ];
 

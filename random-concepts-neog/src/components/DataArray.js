@@ -161,7 +161,7 @@ const DataArr = [
   link: "https://twitter.com/shishirsneupane",
   profileImg:"https://pbs.twimg.com/profile_images/1396743059820269568/V2zqrFLJ_400x400.jpg",
   topic: "Git/GitHub",
-  question: "What type states a file in a repository has to go after I make some changes in it?",
+  question: "What type of  states a file in a repository has to go after I make some changes in it?",
   answer: "The initial stage is when the changes are 'untracked' i.e. git knows that there are modifications in a file but it doesn't tracks it unless the user explicitly commands it to a͟d͟d͟ all the files in the 'staged' area, here git keeps a database of all the differences between the pre-updated and updated file in a working tree and once the user commands it to c͟o͟m͟m͟i͟t͟ the changes then only it considers the file as truly modified and finally it takes the snapshot of those committed changes by giving it a unique hash key"
 },
 { 
@@ -215,6 +215,14 @@ const DataArr = [
     answer: "In an normal flow block level elements  goes from top to bottom  i.e. it always starts from a new because it covers the whole width of teh document whereas  inline elements is displayed in inline direction, that is the direction words are displayed in a sentence according to the the writing mode of such sentence and height and width of an inline level element can't be manipulated"
   },{
     name: "Dummy Six ",
+    link: "#",
+    profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
+    topic: "JavaScripts/Browser APIs",
+    question: "How the Fetch API works?",
+    answer: "It takes an inbuilt function named 'fetch()' which takes a required parameter of the destination of resources to be fetched and sends it to the destination sever and then returns a promise and if the promise gets resolved then using the .then() method we get the response object and its body is then parsed into a JavaScript object using a callback function using another promise and  to actually utilize the data .then() method is again used to pass necessary callback functions"
+
+  },{
+    name: "Jaswanth ",
     link: "#",
     profileImg:"http://www.hair4life.in/wp-content/uploads/2016/07/Dummy-Profile-Picture.jpg",
     topic: "HTML",
